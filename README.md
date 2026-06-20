@@ -5,13 +5,13 @@
 An end-to-end enforcement intelligence system that detects illegal parking hotspots across Bangalore, ranks them by a transparent priority score, forecasts next-day violation volume, and allocates patrol units via constrained optimization.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://huggingface.co/spaces/Adit555/ParkPulse)
 
 ---
 
 ## Live Demo
 
-→ **[Hugging Face Space](#)** *[https://huggingface.co/spaces/Adit555/ParkPulse]
+→ **[Hugging Face Space](https://huggingface.co/spaces/Adit555/ParkPulse)**
 ---
 
 ## What It Does
