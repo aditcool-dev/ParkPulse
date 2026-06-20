@@ -11,8 +11,7 @@ An end-to-end enforcement intelligence system that detects illegal parking hotsp
 
 ## Live Demo
 
-→ **[Hugging Face Space](#)** *(link added after deployment)*
-
+→ **[Hugging Face Space](#)** *[https://huggingface.co/spaces/Adit555/ParkPulse]
 ---
 
 ## What It Does
